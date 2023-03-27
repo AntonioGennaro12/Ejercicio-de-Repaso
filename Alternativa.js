@@ -1,5 +1,5 @@
 document.querySelector("body").innerHTML = `
-<p> *** CON JAVA SCRIPT *** </p>
+<p> *** ESTA ES CON JAVA SCRIPT *** </p>
 <p>LISTA "NO ORDENADA"</p>
     <ul>Comprar Verduras
         <li>Lechuga</li>
