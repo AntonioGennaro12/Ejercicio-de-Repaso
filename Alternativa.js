@@ -17,7 +17,7 @@ document.querySelector("body").innerHTML = `
             <img height=100 width=150 src="Fotos/Ensalada_lechu+tom+cebolla.jfif">
         </li>
         <li>
-            <img src="https://cookpad.com/do/recetas/14464814-ensalada-de-lechuga-tomate-y-cebolla" 
+            <img height=80 width=120 src="https://img-global.cpcdn.com/recipes/8836a226d66eefbc/1360x964cq70/ensalada-de-lechuga-tomate-y-cebolla-foto-principal.webp" 
             alt="Otra Ensaladaque NO funciona">
         </li>
     </OL>
